@@ -1,2 +1,2 @@
-# Alkmini
+# Example of README.md
 Example
